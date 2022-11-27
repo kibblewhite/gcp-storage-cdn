@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swingstep-engine-services",
+  "private_key_id": "db7af5e1c1ecb29331728f8309b029547efbe342",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqPfQobjulG2Tp\nO85Pg69V4pASv7CuofT06wmW+wTng70eE/r4rTFcXBkYMGOmbvlh+ShVqeELlghB\nsxgYdLba9aq4y95burPjVvWmdOqVUymtrG/Mvyk7b44yVwNTe0mcOFZm0IChQ6QA\n7rboITIN/OtYS4JjI9U7mDgRtqS+pJIWPtt90eLByTeqV23AJkOqWTuMpbVebAM4\njcwcbpQ0EtwIu4puNy2aAb0kaU3EYAya9lOQQLAZ26gr84sUTXsxVbWb5LJc89rK\ntvT6abcV5OumNvM6R9RLOFwTyfe1+ahjYGKmI7K8xSJdbsl8vDhAUlCOHra8cpug\nUryyZcppAgMBAAECggEAEnRPUo+qgwoebQMI6QkxGUoLTKD/ddrEG0WcP0PcQv1+\no3NOhiT+IBEyvjLGppzKh1KTSv/0j4U2xWp03vfN95vgYxJkewSY6fi7/cyYPlIq\nxzMVVnhVb6Y236GbkHHhp5/ay9/nxbN3pIs8BBtPGgGUAHkE/Bq/C2wDjfYC01CF\nn24f+unxGY8r3pr/uQ0g1XrT3OqYALBihVTV5cVorw601m6x7hx+NTzM1Sl4LCqV\nPEDdgWhHTAfbsIb6h7eIcIvluaBCOGPwqkHrm+KHgaE/ltOKoeawWTePf9NaogB+\nWC3joj/lczlcWjJnXtpSbHrLVBZVjv+YCk099Pl+FQKBgQDqJOydC1F4VmGm9+nP\njViEHkdMHI6/WAlRf8QMMmCQGn3fPXpH+FGQkVTQ64CSWm+WFMabQ1ThHJerqX/0\n9tHRSJyRocDBp1PXwDuC5SS883BIZ6eL2/4fBr4oypIFedGd5J5/O2zDF7HoJwei\nwdThqH7OY1g43KM+TqDyweuuFQKBgQC6IggGSSLzNR4OjnPEoLJ0vnxjPqtov9xL\nhPmq65Dw4rbIaZTdf4MQmRyOUSrqeGg1xozFN9btlKj5kV9zLCNPUJcdKmsmh/H4\nkNNkr2c2yxtvSd7RH5gHl6F/WbpNskhn335I6/qu7AsbmVFyaXCswBZS5xrvFWEU\nJ38h9JrUBQKBgQCQiYqmxz3bkzdk4tUqko55wFcy3M4hwC7AaKaVAOQrEK9zB3hc\nxSVUoOJCtZ4AumL3uot/fOkAra3TAidDCLos/y3nmHptEOXo4XnbK6iqG3zMtW/w\nHjWY4YixlZreVnzXgzF0STKynAXu0WkdR5oqUuE0do8XStxash8YvCzIoQKBgAeC\nX/iA8twFBJVpwdno8cor9TC70oaDVwvk7X2ry0ksnFsxh0P4ZP1CcBh9xdF30hx5\nSiyauB0VpkuLReKLoVEN20rd7zy6t1Rj42NogC2BvDWdMVQWhjeoMmfE4vNHggxO\nw/WFL7Pm6fvPD64h+t29Uik+EaQbpLL/dO2VxLlRAoGAHmmyIK6ADg/TCprihyP5\nNvEx2U44dMFNYpFynWVmBwhN6CbIF4z0iOOKR0aXryrg/cGZrwq8hsw0CS3gW3GR\nPba9eCFVIRNs4HDovfgbtwZhbLTzo78YE8XJRByhZwIeXJdTd41dSF9GdH5+sGc3\nllm7Z/U9D+N/t6fdxx+7K10=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-storage-cdn@swingstep-engine-services.iam.gserviceaccount.com",
+  "client_id": "113577446105644644750",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-storage-cdn%40swingstep-engine-services.iam.gserviceaccount.com"
+}
+

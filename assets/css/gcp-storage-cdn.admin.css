@@ -1,0 +1,17 @@
+pre#gcp-storage-sync-results {
+	margin: 10px 0 25px 0;
+	padding: 10px;
+	height: 150px;
+	overflow-y: auto;
+	overflow-x: auto;
+	text-align: justify;
+	border: thin dashed grey;
+}
+
+div#gcp-storage-sync {
+	margin: 20px 0 22px 0;
+}
+
+div#gcp-storage-sync > button {
+	margin-right: 15px;
+}
