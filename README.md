@@ -34,3 +34,13 @@ phpunit
 ➜ ./phpunit --version
 
 ➜ mv ./phpunit /usr/local/bin/
+
+## Running PHP Composer
+
+To install the libraries into the vendor folder use the following command:
+
+```bash
+COMPOSER_PROCESS_TIMEOUT=0 composer update
+```
+
+If an error relating to the `google/apiclient-services` library, setting the environment parameter `COMPOSER_PROCESS_TIMEOUT=0` can help with this.
